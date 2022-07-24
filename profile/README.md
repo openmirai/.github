@@ -6,7 +6,7 @@
 ---
 🙌 Our mission is to provide young learners 👩‍🎓 with the best educational 📚 experience and be able to assist them in their journey 🚀 to accomplish their dreams in the future. OpenMirai is a Career-based educational platform based in Thailand 🇹🇭. The courses are made by either an individual or a team of content creators. These courses are available via a subscription service or a one-time purchase.
 
-### 🧑‍💻 History of OpenMirai
+## 🧑‍💻 History of OpenMirai
 
 - [OpenMirai](https://www.openmirai.com) was founded under the supervision of 5 people: Apiphoom Chuenchompoo, Pinsita Niam-in, Pawit Limpasuthum, Nopphasan Jeerawuttananont, and Pann Phetra. They were initially classmates 🏄 of [Panyapiwat Insitute of Management Demonstration School](https://satit.pim.ac.th) who had the same ideology; to create a learning environment where students work towards a dream career by learning from courses with real-world practicality. They formed the first-ever concept of this platform in the name ["Kyoiku"](https://en.wikipedia.org/wiki/Kyōiku_kanji) in August 2021. The idea consisted of a career-based education, where one would learn about the information required for their career and artificial intelligence that would assist a student in tracking 🛤 their progress throughout their journey from the start to the end. These concepts would then be reimagined in the form of Career-Based Learning, a system that would help students discover their true selves by routing their interests, focusing on one career that is right for them, and keeping track of the students progress as they move forward.
 
@@ -22,3 +22,8 @@ OpenMirai produces and distributes content for currently available careers. Depe
 
 ### Special Mirai
 - Special Mirai courses are courses that emphasize soft/hard skills found in the workplace. Individuals or small teams can put out these courses on the platform. Most of the courses are self-paced and can be fitted with activities by the creator.
+
+---
+
+
+
