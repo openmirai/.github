@@ -1,1 +1,0 @@
-Hey, OpenMirai here 👋
