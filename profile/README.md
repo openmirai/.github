@@ -14,11 +14,11 @@
 
 - As of March 2022, OpenMirai announced its first public beta test on the [UN International Day](https://www.un.org/en/observances/international-days-and-weeks) 🇺🇳 of Education and Pitch@School Awards Ceremony[5], hosted by [Panyapiwat Institute of Management University](http://www.pim.ac.th); the public was able to access the first few courses produced by the team and volunteer instructors under the OpenMirai brand.
 
-### 📚 Career Paths and Special Mirai
+## 📚 Career Paths and Special Mirai
 OpenMirai produces and distributes content for currently available careers. Depending on what the content is about, they will fall under two categories: Career Path and Special Mirai.
 
-## Career Path
+### Career Path
 - A Career Path is a set of miniature courses based on already existing careers. Courses range from fundamental subjects such as Mathematics, Science, and language studies to more career-specific lessons. Individuals or small teams can put out these courses on the platform. Most of the courses are self-paced and can be fitted with activities by the creator.
 
-## Special Mirai
+### Special Mirai
 - Special Mirai courses are courses that emphasize soft/hard skills found in the workplace. Individuals or small teams can put out these courses on the platform. Most of the courses are self-paced and can be fitted with activities by the creator.
