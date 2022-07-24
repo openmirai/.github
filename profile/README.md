@@ -3,6 +3,8 @@
 
 ![BG_OM](https://user-images.githubusercontent.com/48949523/180633646-bc728081-6c7e-40ec-a83f-f5fc2673f25c.png)
 
+---
+Our mission is to provide young learners with the best educational experience and be able to assist them in their journey to accomplish their dreams in the future.
 
 <!--
 
