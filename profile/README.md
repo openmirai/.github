@@ -1,6 +1,7 @@
 ## Hi there, OpenMirai here 👋
+---
 
-![alexandre-van-thuan-mr9FouttLGY-unsplash](https://user-images.githubusercontent.com/48949523/180633567-f0a5e0e2-1a2c-4bb7-a6fe-47820279936e.jpg)
+![BG_OM](https://user-images.githubusercontent.com/48949523/180633646-bc728081-6c7e-40ec-a83f-f5fc2673f25c.png)
 
 
 <!--
