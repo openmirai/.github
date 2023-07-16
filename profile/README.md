@@ -4,6 +4,7 @@
 
 ---
 🙌 Our mission is to provide young learners 👩‍🎓 with the best educational 📚 experience and be able to assist them in their journey 🚀 to accomplish their dreams in the future. OpenMirai is a Career-based educational platform based in Thailand 🇹🇭. The courses are made by either an individual or a team of content creators. These courses are available via a subscription service or a one-time purchase.
+
 ---
 
 
