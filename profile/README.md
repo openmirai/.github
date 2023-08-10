@@ -1,4 +1,4 @@
-### Why OpenMirai? Because We Believe in the Power of Discovery! 🔍
+## Why OpenMirai? Because We Believe in the Power of Discovery! 🔍
 
 😄 Greetings, future leaders, tech wizards, artists, scientists, thinkers, and dreamers! Life is filled with limitless possibilities, and OpenMirai is your compass 🧭 pointing you to new horizons of self-discovery and personal growth.
 
