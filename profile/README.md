@@ -1,11 +1,25 @@
-## Hi there, OpenMirai here 👋
+### Why OpenMirai? Because We Believe in the Power of Discovery! 🔍
 
-![BG_OM](https://user-images.githubusercontent.com/48949523/180633646-bc728081-6c7e-40ec-a83f-f5fc2673f25c.png)
+😄 Greetings, future leaders, tech wizards, artists, scientists, thinkers, and dreamers! Life is filled with limitless possibilities, and OpenMirai is your compass 🧭 pointing you to new horizons of self-discovery and personal growth.
 
----
-🙌 Our mission is to provide young learners 👩‍🎓 with the best educational 📚 experience and be able to assist them in their journey 🚀 to accomplish their dreams in the future. OpenMirai is a Career-based educational platform based in Thailand 🇹🇭. The courses are made by either an individual or a team of content creators. These courses are available via a subscription service or a one-time purchase.
+🙌 **Mission Mode ON!** Our ultimate vision? To offer every learner, especially our wonderful folks in Thailand 🇹🇭, an avenue to dive deep into themselves, understand their unique passions, strengths, and dreams, and guide them on a journey of true self-realization.
 
----
+### Embrace the OpenMirai Experience! 🪄
 
+👨‍🏫👩‍🏫 At the heart of OpenMirai, our passionate content creators - whether solo enthusiasts or dynamic teams - are hard at work. They're dedicated to designing courses that are not only informative but transformative, urging you to not just learn, but to understand and discover your true potential.
 
+💸🎁 Whether you're a steadfast subscriber or a curious cat opting for a one-time treasure trove of knowledge, we have an array of offerings tailored just for you.
 
+* * * * *
+
+### The OpenMirai Promise 🤝
+
+Every course you take, every lesson you absorb, is a step closer to understanding who you truly are. With us, it's not just about learning; it's about discovering the vast universe that lies within you.
+
+* * * * *
+
+👯‍♂️ So, why wait? Step into our world of exploration, wisdom, and self-discovery. OpenMirai isn't just a platform; it's a journey into the self. Are you ready to embark on this incredible adventure?
+
+**Here's to uncovering hidden potentials, understanding your true self, and creating a brighter, more self-aware future together!** 🌟🚀
+
+Warm Regards, Your Guiding Stars at OpenMirai 🌠
