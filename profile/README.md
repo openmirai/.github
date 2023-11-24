@@ -1,3 +1,5 @@
+![Group 623](https://user-images.githubusercontent.com/48949523/236689032-d8d9c831-aa72-4b92-be23-53be6bca3761.png)
+
 ## Why OpenMirai? Because We Believe in the Power of Discovery! 🔍
 
 😄 Greetings, future leaders, tech wizards, artists, scientists, thinkers, and dreamers! Life is filled with limitless possibilities, and OpenMirai is your compass 🧭 pointing you to new horizons of self-discovery and personal growth.
