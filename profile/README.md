@@ -1,27 +1,46 @@
-![Group 623](https://user-images.githubusercontent.com/48949523/236689032-d8d9c831-aa72-4b92-be23-53be6bca3761.png)
 
-## Why OpenMirai? Because We Believe in the Power of Discovery! 🔍
+<img width="775" alt="thumbnail-2" src="https://github.com/user-attachments/assets/b380dae2-49c7-4f09-80aa-597143e7451f" />
 
-😄 Greetings, future leaders, tech wizards, artists, scientists, thinkers, and dreamers! Life is filled with limitless possibilities, and OpenMirai is your compass 🧭 pointing you to new horizons of self-discovery and personal growth.
+# OpenMirai Engineering
 
-🙌 **Mission Mode ON!** Our ultimate vision? To offer every learner, especially our wonderful folks in Thailand 🇹🇭, an avenue to dive deep into themselves, understand their unique passions, strengths, and dreams, and guide them on a journey of true self-realization.
+Welcome to the official GitHub of the **OpenMirai Engineering Team** — the builders behind the platform that's transforming how digital academies are launched, managed, and scaled.
 
-### Embrace the OpenMirai Experience! 🪄
+---
 
-👨‍🏫👩‍🏫 At the heart of OpenMirai, our passionate content creators - whether solo enthusiasts or dynamic teams - are hard at work. They're dedicated to designing courses that are not only informative but transformative, urging you to not just learn, but to understand and discover your true potential.
+## 🚀 What is OpenMirai?
 
-💸🎁 Whether you're a steadfast subscriber or a curious cat opting for a one-time treasure trove of knowledge, we have an array of offerings tailored just for you.
+**OpenMirai** is a platform-as-a-service (PaaS) that allows educators, teams, and organizations to create fully branded, customizable online academies — instantly, without writing a single line of code.
 
-* * * * *
+---
 
-### The OpenMirai Promise 🤝
+## 🛠 About the Engineering Team
 
-Every course you take, every lesson you absorb, is a step closer to understanding who you truly are. With us, it's not just about learning; it's about discovering the vast universe that lies within you.
+We are product-minded engineers who:
 
-* * * * *
+- Care deeply about user experience and education-first architecture
+- Build scalable, modular systems for long-term sustainability
+- Focus on performance, clarity, and empowering creators
 
-👯‍♂️ So, why wait? Step into our world of exploration, wisdom, and self-discovery. OpenMirai isn't just a platform; it's a journey into the self. Are you ready to embark on this incredible adventure?
+> “We don’t just write code — we build classrooms for the future.”
 
-**Here's to uncovering hidden potentials, understanding your true self, and creating a brighter, more self-aware future together!** 🌟🚀
+---
 
-Warm Regards, Your Guiding Stars at OpenMirai 🌠
+## 📬 Want to Get in Touch?
+
+We’re not just building for users — we’re building with them.
+
+- 💻 [openmirai.com](https://openmirai.com)
+- ✉️ developers@openmirai.com
+- 
+---
+
+## 🧭 Our Vision
+
+To be the **infrastructure behind the next generation of academies** — making it effortless to build, run, and grow a beautiful, branded learning platform.
+
+---
+
+Thank you for checking us out.  
+We're just getting started.
+
+— The OpenMirai Engineering Team
