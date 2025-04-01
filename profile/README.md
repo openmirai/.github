@@ -1,5 +1,7 @@
 
-<img width="775" alt="thumbnail-2" src="https://github.com/user-attachments/assets/b380dae2-49c7-4f09-80aa-597143e7451f" />
+<img width="1050" alt="thumbnail-3" src="https://github.com/user-attachments/assets/d811665b-76c1-45d9-b2d9-db2c3956d5ff" />
+
+---
 
 Welcome to the official GitHub of the **OpenMirai Engineering Team** — the builders behind the platform that's transforming how digital academies are launched, managed, and scaled.
 
@@ -29,7 +31,6 @@ We’re not just building for users — we’re building with them.
 
 - 💻 [openmirai.com](https://openmirai.com)
 - ✉️ developers@openmirai.com
-- 
 ---
 
 ## 🧭 Our Vision
